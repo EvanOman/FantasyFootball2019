@@ -29,7 +29,9 @@ Let the fun begin!
 
 ## Data Preparation
 
-First we load in the draft data. The data is recorded in the same format as the draft board, as shown below.
+First we load in the draft data. The data is recorded in the same matrix format as the draft board:
+
+![2019 Draft Board](./Figs/DraftBoard.jpg)
 
 Just like 2016 and 2017, this data needs to be adjusted to get into the format we want (i.e. one row per draft selection). We will begin by loading the draft data.
 
