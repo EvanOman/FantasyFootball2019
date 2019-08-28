@@ -1,5 +1,5 @@
 ---
-title: "4th Floor Fantast Draft 2019"
+title: "4th Floor Fantasy Draft 2019"
 author: "Evan Oman"
 date: "August 28, 2019"
 output: 
